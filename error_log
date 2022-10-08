@@ -1,0 +1,16 @@
+[13-Jun-2014 13:48:26 America/Denver] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home3/appigluc/public_html/apps.facebook/utils/srcfb/base_facebook.php on line 1106
+[13-Jun-2014 13:49:20 America/Denver] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home3/appigluc/public_html/apps.facebook/utils/srcfb/base_facebook.php on line 1106
+[13-Jun-2014 13:49:26 America/Denver] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home3/appigluc/public_html/apps.facebook/utils/srcfb/base_facebook.php on line 1106
+[13-Jun-2014 13:49:30 America/Denver] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home3/appigluc/public_html/apps.facebook/utils/srcfb/base_facebook.php on line 1106
+[13-Jun-2014 13:54:11 America/Denver] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home3/appigluc/public_html/apps.facebook/utils/srcfb/base_facebook.php on line 1106
+[13-Jun-2014 13:59:38 America/Denver] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home3/appigluc/public_html/apps.facebook/utils/srcfb/base_facebook.php on line 1106
+[13-Jun-2014 14:02:41 America/Denver] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home3/appigluc/public_html/apps.facebook/utils/srcfb/base_facebook.php on line 1106
+[13-Jun-2014 14:03:33 America/Denver] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home3/appigluc/public_html/apps.facebook/utils/srcfb/base_facebook.php on line 1106
